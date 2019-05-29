@@ -23,6 +23,7 @@ organizations:
 interests:
 - Drosophila
 - Host-parasite coevolution
+- Drosophila genomics
 
 education:
   courses:
@@ -31,7 +32,7 @@ education:
     year: 2016
   - course: BSc in Biological Sciences
     institution: University of Reading, UK
-    year: 2008
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,7 +47,7 @@ social:
   link: https://twitter.com/TomH1lll
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=WJPoC9AAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/tomh1lll
