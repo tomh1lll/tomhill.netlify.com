@@ -71,4 +71,4 @@ I am a postdoctoral researcher at the [University of Kansas](https://ku.edu/) in
 
 I graduated from the [University of Reading](http://www.reading.ac.uk/) in the United Kingdom with a BSc in Biological Sciences in 2012, and then from the [Vienna Graduate School of Population Genetics](https://www.popgen-vienna.at/) with a PhD in Population Genomics in 2016. For my PhD in the [Betancourt Lab](https://www.flyevolution.net/), I studied the horizontal transfer and fitness costs of transposable elements in *Drosophila*. Since 2016 I have worked at the University of Kansas, studying co-evolution of *Drosophila innubila* and their associated DNA virus, DiNV. I also study the evolution of antimicrobial peptides and other immune effector molecules.
 
-My full CV is available [here](files/TH_CV_201905.pdf).
+My full CV is available [here](files/cv.pdf).
